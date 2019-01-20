@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [TestAll]">
+  <test name="getStops(failed)">
+    <classes>
+      <class name="getRequest.getStopDetails">
+        <methods>
+          <include name="testResponse"/>
+        </methods>
+      </class> <!-- getRequest.getStopDetails -->
+    </classes>
+  </test> <!-- getStops(failed) -->
+</suite> <!-- Failed suite [TestAll] -->
